@@ -1,0 +1,12 @@
+{
+  "MLModelVersionStringKey" : "1.0",
+  "MLModelDescriptionKey" : "Random forest model to predict car park availability in six Jersey car parks based on day of week, time, and weather conditions.",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.createml.version" : "14.2.1",
+    "com.apple.createml.app.tag" : "121.3",
+    "com.apple.coreml.model.preview.type" : "tabularRegressor",
+    "com.apple.createml.app.version" : "5.0"
+  },
+  "MLModelAuthorKey" : "Oliver Buterbaugh",
+  "MLModelLicenseKey" : "MIT"
+}

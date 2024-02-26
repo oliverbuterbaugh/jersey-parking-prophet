@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "254D070A-7614-4E98-AC8B-8A605DF35FCB": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "5A20FA93-9EFF-479D-BA5E-31EC06BAFF09": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "parkingRegressor60 10.mlmodel",
+            "path": "com.apple.CoreML/parkingRegressor60 10.mlmodel"
+        },
+        "8C419C88-A907-46AF-A954-8E787A5D82FC": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "5A20FA93-9EFF-479D-BA5E-31EC06BAFF09"
+}

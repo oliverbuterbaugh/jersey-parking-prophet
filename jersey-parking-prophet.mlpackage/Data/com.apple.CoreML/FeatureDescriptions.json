@@ -1,0 +1,33 @@
+{
+  "Outputs" : {
+    "Available Spaces" : {
+      "MLFeatureShortDescription" : "Predicted spaces based on features"
+    }
+  },
+  "Inputs" : {
+    "TimeOfDay" : {
+      "MLFeatureShortDescription" : "Minutes < 360: 0, 359 < minutes > 1080: 1, minutes > 1079: 2"
+    },
+    "WeekdayWeekend" : {
+      "MLFeatureShortDescription" : "Weekend: 1, weekday: 0"
+    },
+    "WindSpeed" : {
+      "MLFeatureShortDescription" : "Hourly wind speed in km\/h"
+    },
+    "MinutesPastMidnight" : {
+      "MLFeatureShortDescription" : "Time represented as minutes past midnight"
+    },
+    "DayOfWeek" : {
+      "MLFeatureShortDescription" : "Encoded day of the week, with 0 being monday"
+    },
+    "CarparkCodeInt" : {
+      "MLFeatureShortDescription" : "Green St: 0, Minden Pl: 1, Patriotic St: 2, Sand St: 3, Pier Rd: 4, Les Jardin: 5"
+    },
+    "Precipitation" : {
+      "MLFeatureShortDescription" : "Hourly rainfall in mm"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}
